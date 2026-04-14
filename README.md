@@ -1,7 +1,5 @@
 # ███████████████
 
-Status: ACTIVE  
-Operations: █████████████  
-Stack: Python • TS • Docker • █████
+Stack: █████ ██████████
 
 Repositories: [REDACTED]
